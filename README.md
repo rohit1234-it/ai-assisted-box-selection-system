@@ -40,21 +40,19 @@ The goal is to help warehouse teams select an appropriate shipping box for custo
 
 ```text
 box_selection_system/
-│
 ├── config/
-│   ├── config/
-│   ├── products/
 │   ├── boxes/
 │   ├── orders/
+│   ├── products/
+│   ├── config/
 │   └── manage.py
-│
-├── README.md
+├── .gitignore
 ├── AI_USAGE.md
-├── LEARNINGS.md
-├── TEST_OUTPUT.md
 ├── CHAT_TRANSCRIPT.html
+├── LEARNINGS.md
+├── README.md
 ├── requirements.txt
-└── .gitignore
+└── TEST_OUTPUT.md
 
 API Endpoints
 Products
