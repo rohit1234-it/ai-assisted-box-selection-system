@@ -16,7 +16,6 @@ class OrderViewSet(viewsets.ModelViewSet):
         order = self.get_object()
 
         selected_box = recommend_box(order.items.select_related("product").all())
-
         if selected_box is None:
             return Response(
                 {
