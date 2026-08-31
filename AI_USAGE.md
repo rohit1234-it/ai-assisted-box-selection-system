@@ -186,12 +186,12 @@ Command:
 Result:
 
 ```text
-Found 5 test(s).
+Found 9 test(s).
 Creating test database for alias 'default'...
 System check identified no issues (0 silenced).
-.....
+.........
 ----------------------------------------------------------------------
-Ran 5 tests in 0.057s
+Ran 9 tests in 0.115s
 
 OK
 Destroying test database for alias 'default'...
