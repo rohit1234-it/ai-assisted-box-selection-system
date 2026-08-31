@@ -97,7 +97,7 @@ Run order-related tests with:
 
 python manage.py test orders
 
-The project currently contains 5 automated tests covering the box recommendation functionality and related scenarios.
+The project currently contains 9 automated tests covering the box recommendation functionality and related scenarios.
 
 Setup
 
